@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+table.tb1{
+    width:500px;
+    border:1px solid #acb276;
+    border-collapse:collapse;
+    margin:10px 10px;
+}
+table.tb1 th,table.tb1 td{
+    text-align:center;
+    border:1px solid #acb276;
+}
+.yc{
+    display:none;
+}
